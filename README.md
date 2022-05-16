@@ -2,7 +2,7 @@
 
 Date: 2020
 
-Github Trending App using Flutter 
+A Flutter app that shows Trending GitHub Repos.
 
 <img src="./readme/1.png" width="250"/> <img src="./readme/2.png" width="250"/> <img src="./readme/3.png" width="250"/> <img src="./readme/4.png" width="250"/>
 
